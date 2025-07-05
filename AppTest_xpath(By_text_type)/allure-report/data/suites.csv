@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"Test to handle simple alert, confirm alert, and prompt alert using Selenium WebDriver","10494","Handle JS Alert, Confirm, and Prompt","Surefire suite","Sat Jul 05 11:59:35 IST 2025","passed","Sat Jul 05 11:59:45 IST 2025","com.example.AppTest","Surefire test","com.example.AppTest","loginTest"

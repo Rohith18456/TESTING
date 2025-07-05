@@ -1,0 +1,1 @@
+[{"uid":"7fc7562482eb3e41","name":"Valid Login Test","time":{"start":1751623043737,"stop":1751623046614,"duration":2877},"status":"passed","severity":"critical"},{"uid":"92620d5ca4ece01f","name":"JS Alert Handling Test","time":{"start":1751623034011,"stop":1751623043660,"duration":9649},"status":"passed","severity":"normal"}]

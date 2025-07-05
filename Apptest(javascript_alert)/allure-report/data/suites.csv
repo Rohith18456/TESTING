@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"Login using correct username and password and verify successful login.","2877","Valid Login Test","Surefire suite","Fri Jul 04 15:27:23 IST 2025","passed","Fri Jul 04 15:27:26 IST 2025","com.example.AppTest","Surefire test","com.example.AppTest","loginTest"
+"Handles JS Alert, Confirm, and Prompt boxes and verifies actions.","9649","JS Alert Handling Test","Surefire suite","Fri Jul 04 15:27:14 IST 2025","passed","Fri Jul 04 15:27:23 IST 2025","com.example.AppTest","Surefire test","com.example.AppTest","alertHandlingTest"

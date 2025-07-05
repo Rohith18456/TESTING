@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"Test opens new tab, new window, and message window, and switches between them.","14172","Test switching between multiple browser windows","Surefire suite","Sat Jul 05 11:50:12 IST 2025","passed","Sat Jul 05 11:50:26 IST 2025","com.example.AppTest","Surefire test","com.example.AppTest","loginTest"

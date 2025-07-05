@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"Switch to iframe and perform drag and drop. Verify the text changes to 'Dropped!'.","2374","Drag and Drop Test using iframe","Surefire suite","Fri Jul 04 15:21:53 IST 2025","passed","Fri Jul 04 15:21:56 IST 2025","com.example.AppTest","Surefire test","com.example.AppTest","dragAndDropTest"

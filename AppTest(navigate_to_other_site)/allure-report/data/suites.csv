@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"Open Google, navigate to Wikipedia, refresh, go back and forward.","9967","Navigation Test using Selenium WebDriver","Surefire suite","Fri Jul 04 15:46:17 IST 2025","passed","Fri Jul 04 15:46:27 IST 2025","com.example.AppTest","Surefire test","com.example.AppTest","testBrowserNavigation"
+"Login using correct username and password and verify successful login.","229","Valid Login Test","Surefire suite","Fri Jul 04 15:46:27 IST 2025","passed","Fri Jul 04 15:46:27 IST 2025","com.example.AppTest","Surefire test","com.example.AppTest","teardown"

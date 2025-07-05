@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"Test to hover over nested menus on https://demoqa.com/menu","8724","Test mouse hovering on demoqa menu","Surefire suite","Sat Jul 05 11:56:14 IST 2025","passed","Sat Jul 05 11:56:23 IST 2025","com.example.AppTest","Surefire test","com.example.AppTest","loginTest"

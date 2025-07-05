@@ -1,0 +1,1 @@
+[{"uid":"5d3c0f93ab4ea3cb","name":"Navigation Test using Selenium WebDriver","time":{"start":1751624177318,"stop":1751624187285,"duration":9967},"status":"passed","severity":"normal"},{"uid":"3c557819c44907ce","name":"Valid Login Test","time":{"start":1751624187335,"stop":1751624187564,"duration":229},"status":"passed","severity":"critical"}]
